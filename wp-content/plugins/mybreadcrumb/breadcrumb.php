@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Simple Breadcrumbb Shortcode
+Plugin Name: Simple Breadcrumb Shortcode
 Description: Simple Breadcrumb Shortcode is an easy to use plugin, paste the shortcode, and it will appear on your pages
 Version: 1.0
 Author: Jérôme OLLIVIER

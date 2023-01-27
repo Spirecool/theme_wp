@@ -47,7 +47,6 @@ For example :
 == Changelog ==
 
 = 1.0 =
+Initial release.
 *Release Date - 27 January 2023*
 
-* First release
-- Shortcode

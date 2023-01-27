@@ -26,6 +26,13 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'twentytwentyone' ); ?></a>
 
 	<?php get_template_part( 'template-parts/header/site-header' ); ?>
+	<div style = "padding-left: 15px;">
+	<?php 
+	if( function_exists('fil_ariane')) {
+		echo fil_ariane(); 
+	}
+	?>
+	</div>
 
 	<div id="content" class="site-content">
 		<div id="primary" class="content-area">
